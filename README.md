@@ -47,7 +47,7 @@ Esto son los principales entes a tener en cuenta al momento de efectuar trading 
 - Holders: Inversiones a largo plazo
 
 
-## Principales plataformas para operar criptomonedas:***
+## Principales plataformas para operar criptomonedas:
 
 
 - [Binance](https://www.binance.com/es): La más usada para altcoins y criptomonedas en el mundo.
@@ -67,9 +67,32 @@ Otras plataformas:
 
 Tenemos dos plataformas para analizar el mercado:
 
-- [**CoinMarketCap**](https://coinmarketcap.com/): Es la plataforma con el listado de criptomonedas
-- [**TradingView**](https://es.tradingview.com/): Plataforma donde haremos análisis técnico
+- [**CoinMarketCap**](https://coinmarketcap.com/): Es la plataforma con el listado de criptomonedas, muestra las 100 princiles cripto monedas por capitalizacion, en esta plataforma se muestra:
 
+  - Price: Precio actual en dolares
+  - 24h%:  Cambio en las ultimas 24 horas
+  - 7d%:  Cambio en los ultimos 7 dias
+  - Market Cap: Muestra el tamaño del mercado en dinero real (todo el dinero invertdo hasta este punto)
+  - Volume(24h) Cantidad de transacciones en este momento (en las ultimas 24 horas)
+  - Circulating Supply Cantidad de monedas en circulacion en este momento
+  - Last 7 Days: Grafio de cambio en los ultimos 7 dias
+
+
+- [**TradingView**](https://es.tradingview.com/): Plataforma donde haremos análisis técnico, esta requiere una cuenta, pero se puede crear una de forma gratutita con un mail temporal. 
+
+Para crear mails temporales podemos usar:
+
+[correotemporal](https://correotemporal.org/)
+[tempMail](https://temp-mail.org/es/)
+
+
+
+**Velas japonesas**
+
+Las velas japonesas nos permiten saber la fluctuacion de precio que ha tenido una cripto/divisa a lo largo de un dia.
+Las de color verde indican un valor de alza de la divisa y las de color rojo indican un valor a baja del precio 
+
+![image](https://user-images.githubusercontent.com/6383659/157538982-d1d06cd6-b60b-4d5d-b192-113c47508d2f.png)
 
 
 fundamentos de trading con criptomonedas
