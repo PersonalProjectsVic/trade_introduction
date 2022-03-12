@@ -37,6 +37,18 @@ Efectuar apalamancamiento es una estrategia que puede ser muy efectiba pero tamb
 
 Las criptomoneas suelen ser mucho más volátiles que otros mercados más tradicionales, así que el apalancamiento toma más riesgo (al igual que puede dar más beneficios).
 
+Si tienes un saldo de 50$ y usas 2x en efecto inviertes 100$ por transacción.
+
+Ejemplo:
+
+Si el precio aumenta 5%, ese beneficio se verá reflejado sobre los 100$ por lo tanto tu beneficio estimado es de 5$ representando un 10% de beneficio total sobre tu inversión inicial (50$)
+
+Si el precio cae 5%, esa pérdida de igual forma se ve reflejada sobre los 100$ por lo tanto tu pérdida estimada de 5% representando un 10% de pérdida total sobre tu inversión inicial (50$)
+
+Es así como el broker trabaja, multiplica tu dinero pero tu aversión al riesgo y exposición al mercado también aumenta.
+
+Por eso es fundamental gestionar el riesgo y distribuir tu capital.
+
 
 **Actores del mercado:**
 Esto son los principales entes a tener en cuenta al momento de efectuar trading en cualquier medioÑ
@@ -94,6 +106,29 @@ Las de color verde indican un valor de alza de la divisa y las de color rojo ind
 
 ![image](https://user-images.githubusercontent.com/6383659/157538982-d1d06cd6-b60b-4d5d-b192-113c47508d2f.png)
 
+
+ÓRDENES o zonas de compra y de venta
+una orden, es una operación en la que tu ingresas al mercado
+
+Clasificación de las órdenes
+
+Existen tres tipos de órdenes:
+
+De Entrada
+Es cuando decidimos entrar en el mercado luego de haber hecho el análisis de las gráficas.
+
+Salida o de (Ganancia)
+Es cuando el mercado se ha movido a la alza o a la baja, segun mi analisis, dando como resultado un margen de de ganancias.
+
+Stop loss = (detener Pérdida)
+En cuando me retiro del mercado e invalidando mi análisis, para no entrar en una pérdida considerable en mi liquidez.
+
+Entrada en Long = Entrada en Largo, o en !COMPRA!
+Se da, cuando, en la labor del análisis de nuestra gráfica. Nos damos cuenta que el cripto activo va a subir, llevándonos a la acción entrar en el mercado de la moneda (Bitcoin o Alcoin) . Es importante que en la entrada de compra en LONG. Mi zona de salida o mi zona de ganancia,(TAKE PROFIT) = toma de ganancia, este por encima del precio en que entre o di la orden de entrada. De este modo estaríamos ganando la diferencia entre el valor de entrada y el valor de salida.
+En este caso la zona de STOP LOSS debe mantenerse por debajo, del valor de entrada en un punto considerando la perdida. para protegernos de la bajada del precio y no entrar en perdidas considerables. Con el fin de proteger la cuenta.
+
+Entrada en Short = Entrada en Corto o en !VENTA! Se da, cuando en la labor del análisis de nuestra gráfica. Nos damos cuenta que el cripto activo va a bajar, llevándonos a la acción de entrar en el mercado de la criptomoneda (Bitcoin o Alcoin. En este caso si el análisis acierta y la criptomoneda baja de precio obtenemos una ganancia. Es importante que en la entrada de compra en SHORT. Mi zona de salida o mi zona de ganancia,(TAKE PROFIT) = toma de ganancia, este por debajo del precio en que entre o di la orden de entrada.
+En este caso la zona de STOP LOSS debe mantenerse por arriba del valor de entrada, en un punto considerando la perdida. La cual se generaría si la criptodivisa en lugar de bajar, sube de precio. Para protegernos y no entrar en perdidas considerables. Con el fin de proteger la cuenta.
 
 fundamentos de trading con criptomonedas
 
