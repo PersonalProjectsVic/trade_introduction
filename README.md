@@ -263,6 +263,35 @@ Torre alta y torre baja: Son similares a la estrella de la mañana y noche, con 
 
 ![image](https://user-images.githubusercontent.com/6383659/158040935-1f0e34d9-2d28-416b-bec2-1b4aa0d31674.png)
 
+Analisis de figurar chartistas
+
+Son figuras que indican un cambio de tendenia dentro del mercado, existen 3 figuras principales
+
+- El **hombro cabeza hombro** es una figura de cambio de tendencia, su objetivo de precio corresponde a la altura de la cabeza
+
+![image](https://user-images.githubusercontent.com/6383659/158532233-514ca0c8-86fc-44bb-ba36-bed0e8fb9a0c.png)
+
+
+- El **doble techo** se forma luego de una tendencia alcista madura. Se observa en el gráfico la presencia de dos máximos con niveles similares.
+
+
+![image](https://user-images.githubusercontent.com/6383659/158532396-50cc1e19-561f-474e-8abb-56f056082415.png)
+
+
+
+- El ***doble piso** se forma luego de una tendencia bajista madura. Se identifican cuando el precio toca niveles mínimos relativamente iguales.
+
+
+![image](https://user-images.githubusercontent.com/6383659/158532438-0af6dae6-94a3-4dac-acf0-ca24f7c94d18.png)
+
+
+
+
+
+
+
+
+
 
 
 Interpretar los indicadores de mercado
