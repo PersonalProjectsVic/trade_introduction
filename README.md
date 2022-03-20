@@ -368,5 +368,65 @@ PD: Aclaro que todos los puntos no son una guía que hay que seguir al pie de la
 
 
 
+# Anexo
 
+En esta lectura analizaremos como comprar Bitcoin.
+
+En Bitmex debes llevar los bitcoins ya comprados, ya que allí solo trabajas para ganar bitcoins y no dólares. La conversión final a dólares se realiza cuando conviertes tus bitcoins a la moneda de tu país o al dólar americano. Ahora, volviendo al tema de cómo adquirir tus bitcoins, y la forma en la que los adquieres son variadas acorde a tus preferencias.
+
+Antes que nada, debes tener mucho cuidado al acceder a sitios para comprar y vender bitcoins o cripto activos en general, ya que podrías encontrarte con páginas falsas en las cuales te piden tus datos o te hacen crear una cuenta y enviar dinero pero que en realidad terminan siendo una estafa. Sólo accede a sitios verificados y seguros. Acá te voy a dejar algunos:
+
+–Binance: Te permite comprar bitcoin con tarjeta de débito/crédito
+
+–Localbitcoins.com: Esta página te permite entrar en contacto con otras personas que también son usuarios registrados y que están dispuestos a comprar o vender Bitcoins. Funciona como intermediaria en las transacciones con Bitcoin mediante el modelo de ““escrow”” (o resguardo del monto en tránsito) y para ello cobra una comisión.
+
+En LocalBitcoins se pueden realizar operaciones de compra y venta de Bitcoins con diferentes medios de pago como: Efectivo (USD, Pesos mexicanos, Pesos colombianos, etc.), transferencias a bancos locales, transacciones electrónicas con Paypal, Payeer, Payza, Payoneer, y muchos otros.
+
+Puede que te aparezca la opción de hacerlo en efectivo, es decir que le lleves el efectivo al vendedor, pero no lo recomiendo porque Localbitcoin en una eventual disputa no va a tener manera de saber si hiciste el pago. En cambio, si haces un depósito por banco o transferencia te queda el comprobante y si el vendedor por ejemplo no quiere entregar sus bitcoins, se abre una disputa y tu envías la foto mostrando que efectivamente hiciste la transacción. Recuerda que localbitcoins tiene en su poder los Bitcoins del vendedor que hace la publicación.
+
+Existen otras websites de apoyo para compra y venta de Bitcoins (debes revisar las opciones disponibles en tu país):
+
+https://uphold.com/
+
+https://bitso.com/
+
+https://www.buda.com/
+
+https://panda.exchange/
+
+https://coinmonitor.info/
+
+https://www.bitinka.com/
+
+https://Changelly.com/?ref_id=c936805df4e6
+
+https://www.coinbase.com/
+
+https://www.skrill.com
+
+Cuando tengas tus bitcoins puedes enviarlos a la dirección que te genera tu cuenta de Bitmex y Binance.
+
+Para ello te adjunto una imagen de ejemplo de donde envías los bitcoins y como generar la dirección de cuenta de Bitmex:
+
+Lec 2-1.png
+Lec 2-2.png
+Las plataformas como Bitmex y Binance te generan una dirección (o wallet) asociada a tu cuenta cuando te registras, dependiendo de donde hayas comprado tus bitcoins puedes solamente retirar los fondos de la plataforma donde los compraste y allí realizas la transferencia.
+
+Cuando hayas obtenido ganancias de tus operaciones en Bitmex, ese dinero estará reflejado en bitcoin. El proceso para convertirlo en dólares o la moneda de tu país en tu cuenta de banco es el siguiente:
+
+Envías el saldo de Bitmex a Localbitcoins
+En localbitcoins acuerdas con un comprador un depósito a tu cuenta bancaria. La plataforma de Localbitcoins te dará todas las instrucciones
+Toma en cuenta que la plataforma Localbitcoins te pone en contacto con personas que quieren comprarte tus bitcoins (y así los puedes cambiar a dinero de tu país). Te recuerdo, que puedes acordar pago en efectivo mediante una cita, sin embargo, la mayor seguridad se da cuando solicitas un depósito bancario y así tendrás el dinero equivalente a tus bitcoins en tu cuenta bancaria. El sistema de Localbitcoins te guiará en ese proceso.
+
+Según el país que vivas también podrás tener otras opciones y quizás procesos aún más sencillos, por ello debes analizar si los sitios web que están en la parte superior de esta lectura aplican a tu país de forma más sencilla.
+
+No obstante, siempre es recomendable que se ejecute mediante un depósito a una cuenta bancaria a tu nombre.
+
+Para retirar tus ganancias de bitmex debes ir a esta pantalla en tu cuenta:
+
+Lec 2-3.png
+Y de localbitcoins usarás tu direccion de wallet que la puedes buscar en esta sección:
+
+Lec 2-4.png
+Recuerda, si quieres conocer con mayor profundidad los aspectos técnicos del ecosistema de las criptomonedas te invito a que revises el curso de inversión con criptomonedas
 
